@@ -41,9 +41,7 @@ Después ejecutamos:
 ```bash
 docker run hello-world
 ```
-<img width="715" height="434" alt="image" src="https://github.com/user-attachments/assets/4a0a6d68-9004-4477-aea5-bd27ed24ed5f" />
-
-
+<img width="724" height="449" alt="image" src="https://github.com/user-attachments/assets/74589711-d7cb-4b3e-bb67-44c0f280cd01" />
 Este comando descarga una imagen de prueba y ejecuta un contenedor para comprobar que Docker funciona.
 
 ### 5. Conclusión
