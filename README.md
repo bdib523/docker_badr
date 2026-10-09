@@ -19,12 +19,14 @@ Entramos en la siguiente página:
 https://hub.docker.com/
 
 Pulsamos en **Sign up**, introducimos nuestro correo electrónico, elegimos un nombre de usuario y creamos una contraseña.
+<img width="1902" height="63" alt="image" src="https://github.com/user-attachments/assets/2d7444fa-68cd-42fe-90ea-91079a14bbec" />
+<img width="455" height="647" alt="image" src="https://github.com/user-attachments/assets/fccd5b63-7af4-4f6c-b321-0d781999480f" />
 
 Después verificamos el correo e iniciamos sesión.
 
 ### 3. Comprobar la instalación
 
-Abrimos PowerShell y escribimos:
+Abrimos PowerShell en Administrador y escribimos:
 
 ```bash
 docker --version
