@@ -39,18 +39,10 @@ Después ejecutamos:
 ```bash
 docker run hello-world
 ```
+<img width="715" height="434" alt="image" src="https://github.com/user-attachments/assets/4a0a6d68-9004-4477-aea5-bd27ed24ed5f" />
+
 
 Este comando descarga una imagen de prueba y ejecuta un contenedor para comprobar que Docker funciona.
-
-### 4. Iniciar sesión en Docker
-
-En PowerShell escribimos:
-
-```bash
-docker login
-```
-
-Seguimos las instrucciones para iniciar sesión con nuestra cuenta de Docker Hub.
 
 ### 5. Conclusión
 
