@@ -23,6 +23,7 @@ Pulsamos en **Sign up**, introducimos nuestro correo electrónico, elegimos un n
 <img width="455" height="647" alt="image" src="https://github.com/user-attachments/assets/fccd5b63-7af4-4f6c-b321-0d781999480f" />
 
 Después verificamos el correo e iniciamos sesión.
+
 <img width="229" height="390" alt="image" src="https://github.com/user-attachments/assets/bab64b91-591e-4361-9e99-c02ca531a57c" />
 
 
