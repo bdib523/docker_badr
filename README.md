@@ -31,9 +31,7 @@ Abrimos PowerShell en Administrador y escribimos:
 ```bash
 docker --version
 ```
-<img width="464" height="116" alt="image" src="https://github.com/user-attachments/assets/5ca5470f-4037-4a55-bd8e-a4eb401e3564" />
-
-
+<img width="465" height="57" alt="image" src="https://github.com/user-attachments/assets/c5876238-7405-446e-a8ce-4ac18cdf0a48" />
 Este comando sirve para comprobar la versión instalada.
 
 Después ejecutamos:
