@@ -2,7 +2,7 @@
 
 ## Instalación de Docker
 
-En esta práctica voy a instalar Docker en Windows y crear una cuenta en Docker Hub.
+En esta práctica vamos a instalar Docker en Windows y crear una cuenta en Docker Hub.
 
 ### 1. Descargar Docker
 
@@ -23,6 +23,9 @@ Pulsamos en **Sign up**, introducimos nuestro correo electrónico, elegimos un n
 <img width="455" height="647" alt="image" src="https://github.com/user-attachments/assets/fccd5b63-7af4-4f6c-b321-0d781999480f" />
 
 Después verificamos el correo e iniciamos sesión.
+<img width="229" height="390" alt="image" src="https://github.com/user-attachments/assets/bab64b91-591e-4361-9e99-c02ca531a57c" />
+
+
 
 ### 3. Comprobar la instalación
 
@@ -32,6 +35,8 @@ Abrimos PowerShell en Administrador y escribimos:
 docker --version
 ```
 <img width="465" height="57" alt="image" src="https://github.com/user-attachments/assets/c5876238-7405-446e-a8ce-4ac18cdf0a48" />
+
+
 Este comando sirve para comprobar la versión instalada.
 
 Después ejecutamos:
@@ -40,7 +45,6 @@ Después ejecutamos:
 docker run hello-world
 ```
 <img width="724" height="449" alt="image" src="https://github.com/user-attachments/assets/74589711-d7cb-4b3e-bb67-44c0f280cd01" />
-Este comando descarga una imagen de prueba y ejecuta un contenedor para comprobar que Docker funciona.
 
 ### 5. Conclusión
 
