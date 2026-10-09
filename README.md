@@ -55,4 +55,3 @@ Con esta práctica he aprendido a instalar Docker Desktop y crear una cuenta en 
 
 - https://www.docker.com/
 - https://hub.docker.com/
-- https://docs.docker.com/
